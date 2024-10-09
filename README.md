@@ -1,4 +1,4 @@
-<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=KarthikSbrshB.karthiksbrshb" />
+<img align = "right" src="https://visitor-badge.laobi.icu/badge?page_id=KarthikSbrshB.karthiksbrshb" />
 
 <!--
 **KarthikSbrshB/karthiksbrshb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
