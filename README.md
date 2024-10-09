@@ -1,4 +1,4 @@
-<img src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif" />
+<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
 
 <h1 align="center">Hi 👋, I'm Karthik Sabareesh Boddeti</h1>
 <h3 align="center">I am a passionate front-end web developer from India!</h3>
