@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthiksbrshb" alt="karthiksbrshb" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
-
-- 👨‍💻 All of my projects are available at [https://karthiksbrshb-portfolio.netlify.app](https://karthiksbrshb-portfolio.netlify.app)
-
-- 📝 I regularly write articles on [https://medium.com/@karthiksbrsh](https://medium.com/@karthiksbrsh)
-
-- 📫 How to reach me **karthiksb.programming@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,8 +55,11 @@
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://karthiksbrshb-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /><!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
 
