@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Karthik</h1>
 
-<h3 align="center">I am a passionate front-end web developer from India 🇮🇳</h3>
+<h3 align="center">A passionate front-end web developer from India 🇮🇳</h3>
 
 <div align="center" ><img align="right" src="https://komarev.com/ghpvc/?username=karthiksbrshb&label=Profile%20views&color=0e75b6&style=flat" /></div>
 
