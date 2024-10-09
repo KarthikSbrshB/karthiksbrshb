@@ -1,14 +1,11 @@
-<img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif" />
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
 <h1 align="center">Hi 👋, I'm Karthik Sabareesh Boddeti</h1>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=karthiksbrshb&label=Profile%20views&color=0e75b6&style=flat" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
-
 <h3 align="center">I am a passionate front-end web developer from India 🇮🇳</h3>
+
+<div align="center" ><img align="right" src="https://komarev.com/ghpvc/?username=karthiksbrshb&label=Profile%20views&color=0e75b6&style=flat" /></div>
+
 
 <br/>
 
